@@ -1,2 +1,3 @@
-# machine-learning-assignment
+# machine-learning-study
+and practice commit
 
